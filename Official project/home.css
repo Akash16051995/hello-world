@@ -1,0 +1,195 @@
+/*
+
+.body{
+
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+ul{
+    border-style: none;
+  list-style-type: none;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+
+    float: left;
+}
+input[type="text"],input[type="password"]{
+  border-width: thin;
+  font-size: 15px;
+  border-style: rounded;
+  margin-bottom: 15px;
+  margin-left: 4px;
+  border-radius: 4px;
+  padding-left: 4px;
+  font-family: Arial;
+  }
+
+input[type="email"]{
+  border-width: thin;
+  font-size: 15px;
+  border-style:rounded;
+  margin-bottom: 15px;
+  margin-left: 4px;
+  border-radius: 4px;
+  padding-left: 4px;
+  font-family: Arial;
+}
+input[class="btn-submit"]{
+  overflow: hidden;
+  margin-right: 69.7%;
+}
+.new{
+  margin-left: 50px;
+}
+.container{
+margin-left: 60%;
+margin-right: 200px;
+
+
+background-color: #fff;
+border-radius: 4px;
+height: 110px;
+margin-top: -510px;
+width:auto;
+padding-top: 25px;
+padding-left: 15px;
+}
+a{
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 15px;
+  }
+
+label{
+font-family: Arial;
+font-size: auto;
+}
+
+.signup{
+
+  background-color: #fff;
+  height: 170px;
+  margin-left: 60%;
+  margin-right: 200px;
+  width:auto;
+
+
+  border-radius: 4px;
+  margin-top: 20px;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+.btn-login{
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  margin-right: 5px;
+}
+
+.btn-submit{
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 50%;
+  border: none;
+  .body{
+
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-size: cover;
+}
+ul{
+    border-style: none;
+  list-style-type: none;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+
+    float: left;
+}
+input[type="text"],input[type="password"]{
+  border-width: thin;
+  font-size: 15px;
+  border-style: rounded;
+  margin-bottom: 15px;
+  margin-left: 4px;
+  border-radius: 4px;
+  padding-left: 4px;
+  font-family: Arial;
+  }
+
+input[type="email"]{
+  border-width: thin;
+  font-size: 15px;
+  border-style:rounded;
+  margin-bottom: 15px;
+  margin-left: 4px;
+  border-radius: 4px;
+  padding-left: 4px;
+  font-family: Arial;
+}
+input[class="btn-submit"]{
+  overflow: hidden;
+  margin-right: 69.7%;
+}
+.new{
+  margin-left: 50px;
+}
+.container{
+margin-left: 60%;
+margin-right: 200px;
+
+
+background-color: #fff;
+border-radius: 4px;
+height: 110px;
+margin-top: -510px;
+width:auto;
+padding-top: 25px;
+padding-left: 15px;
+}
+a{
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 15px;
+  }
+
+label{
+font-family: Arial;
+font-size: auto;
+}
+
+.signup{
+
+  background-color: #fff;
+  height: 170px;
+  margin-left: 60%;
+  margin-right: 200px;
+  width:auto;
+
+
+  border-radius: 4px;
+  margin-top: 20px;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+.btn-login{
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  margin-right: 5px;
+}
+
+.btn-submit{
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 50%;
+  border: none;
+  }
